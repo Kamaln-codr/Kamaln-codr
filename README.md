@@ -1,12 +1,24 @@
-<p align="center">
-  <a href="https://github.com/kamaln-codr">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=666&text=Welcome%2C%20I'm%20Kamal" alt="Welcome, I&#39;m Kamal" />
-  </a>
-</p>
+<a href="https://www.example.com">
+  <img src="https://github.com/Kamaln-codr/nothing-bruh/blob/main/e6306775bc3658bc8c8ed3842cda8355.webp" alt="Description" width="900" />
+</a>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=670&height=44&lines=Python%20Developer;Currently%20doing%20Pandas%2C%20Numpy%20%26%20Matplotlib" alt="Typing headlines" />
-</p>
+i write codes and make cool things :D
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/kamalnayan-thakur-497918367">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/kamalnayanfl">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.instagram.com/kamalncodr/?__pwa=1">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://your-portfolio-url.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>   
+
 
 ### 🚀 About Me
 
