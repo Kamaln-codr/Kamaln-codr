@@ -11,7 +11,7 @@
 Passionate Python developer who enjoys building practical software, exploring new technologies, and turning ideas into reality through code.
 
 🔭 &nbsp;I'm currently working on **How to automate things using Python**  
-🌱 &nbsp;I'm currently learning **Pandas, Matplotlib, Numpy, MySQL &amp; PostgreSQL**  
+🌱 &nbsp;I'm currently learning **Pandas, Matplotlib, Numpy, MySQL, PostgreSQL &amp; OpenCV**  
 😄 &nbsp;Pronouns: **He/Him**
 
 ### 🛠️ Tech Stack
