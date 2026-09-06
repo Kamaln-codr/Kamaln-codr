@@ -1,6 +1,4 @@
-<a href="https://www.example.com">
-  <img src="https://github.com/Kamaln-codr/nothing-bruh/blob/main/e6306775bc3658bc8c8ed3842cda8355.webp" alt="Description" width="850" />
-</a>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=670&height=44&lines=Python%20Developer;Currently%20doing%20Pandas%2C%20Numpy%20%26%20Matplotlib" alt="Typing headlines" />
