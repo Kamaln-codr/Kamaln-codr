@@ -32,11 +32,6 @@ Passionate Python developer who enjoys building practical software, exploring ne
   <a href="https://www.instagram.com/kamalncodr/?__pwa=1" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kamaln-codr&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/kamaln-codr">kamaln-codr</a></i></p>
